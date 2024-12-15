@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hi Deepak </h1>
-    <p> Enjoy.</p>
+    <p> Enjoy the day.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
